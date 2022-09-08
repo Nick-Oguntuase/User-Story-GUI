@@ -98,13 +98,3 @@ public class ListTransferHandler extends StringTransferHandler {
 		addIndex = -1;
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHu
